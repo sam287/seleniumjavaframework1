@@ -1,0 +1,4 @@
+[INFO ] 2019-07-12 16:48:45.566 [main] log4jdemo - this is info msg
+[ERROR] 2019-07-12 16:48:45.570 [main] log4jdemo - this is error msg
+[WARN ] 2019-07-12 16:48:45.571 [main] log4jdemo - this is warn msg
+[FATAL] 2019-07-12 16:48:45.571 [main] log4jdemo - this is fatal msg
